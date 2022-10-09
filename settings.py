@@ -1,0 +1,6 @@
+DATABASE_ENGINE = 'django.db.backends.sqlite3'
+DATABASE_NAME = 'bookmarks.db'
+DATABASE_USER = 'Clever Akanimoh'
+DATABASE_PASSWORD = 'DellWindow-64bit'
+DATABASE_HOST = ''
+DATABASE_PORT = ''
